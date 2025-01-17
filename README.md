@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NLP2SQL&fontSize=80&animation=fadeIn&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=nlp-sql-model&fontSize=80&animation=fadeIn&fontAlignY=35)
 
 </div>
 
