@@ -85,8 +85,8 @@ graph LR
 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/NLP2SQL.git
-cd NLP2SQL
+git clone https://github.com/ganesh76/nlp-sql-model.git
+cd nlp-sql-model
 ```
 
 2️⃣ **Set Up Environment**
@@ -108,7 +108,7 @@ pip install -r requirements.txt
 4️⃣ **Launch the App**
 
 ```bash
-streamlit run app/NLP2SQL.py
+streamlit run app/nlpsqlmodel.py
 ```
 
 ## 🎨 Built With
