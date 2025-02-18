@@ -188,6 +188,8 @@ mindmap
 
 MIT License © [Ganesh Gundu](LICENSE) - feel free to use this project as you wish!
 
+Project Inspired from - [NLPSQL](https://github.com/lohitkolluri/NLP2SQL)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
